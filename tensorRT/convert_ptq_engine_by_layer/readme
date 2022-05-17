@@ -1,0 +1,7 @@
+https://github.com/NVIDIA/TensorRT/tree/main/samples/python/network_api_pytorch_mnist
+try to build engine by layer and layer, for QDQ model
+generate_onnx_torch.py: generate pth and onnx
+run_onnx.py: run onnx
+run_torch.py: run torch
+read_torch_convert_trt.py: convert torch into engine and run
+read_onnx_convert_trt.py: convert onnx into engine and run
